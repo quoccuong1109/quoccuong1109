@@ -82,8 +82,8 @@ cuong@chi-lang ─────────────────────�
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=quoccuong1109&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoccuong1109&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" height="160"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=quoccuong1109&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoccuong1109&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" height="160"/>](https://github-readme-activity-graph.vercel.app/graph?username=quoccuong1109&theme=react-dark)
 
 ---
 
